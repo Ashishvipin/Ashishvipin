@@ -26,9 +26,9 @@ Feel free to connect with me here on GitHub or LinkedIn to learn more about my w
 
 ### Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishvipin&show_icons=true&locale=en" alt="ashishvipin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishvipin&show_icons=true&theme=github_dark" alt="ashishvipin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishvipin&" alt="ashishvipin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishvipin&theme=github_dark_blue" alt="ashishvipin" /></p>
 
 
 
