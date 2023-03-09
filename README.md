@@ -15,7 +15,7 @@ Feel free to connect with me here on GitHub or LinkedIn to learn more about my w
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashishvipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishvipin" height="27" width="36" /></a>
-<a href="https://stackoverflow.com/users/ashish-vipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-vipin" height="27" width="36" /></a>
+<a href="https://stackoverflow.com/users/20487903/ashish-vipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-vipin" height="27" width="36" /></a>
 <a href="https://twitter.com/ashishvipin4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishvipin4" height="27" width="36" /></a>
 <a href="https://instagram.com/ashish_vipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_vipin" height="27" width="36" /></a>
 </p>
