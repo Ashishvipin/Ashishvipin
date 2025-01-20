@@ -1,5 +1,4 @@
 # Ashish Vipin
-**`Data Scientist`**
 
 Hello! I'm Data enthusiast with expertise in Artificial Intelligence, Machine Learning, NLP, and Advanced Analytics. A recent Master's graduate in Data Science with experience across Telecom, Airline, Medical, and Business domains.Passionate about solving real-world challenges with data, thriving in collaborative and innovative environments, andcontinuously adapting to new technologies and methodologies.
 
@@ -16,11 +15,6 @@ Hello! I'm Data enthusiast with expertise in Artificial Intelligence, Machine Le
 - Implemented web scraping and data preprocessing workflows
 - Utilized word2vec and FastText embeddings for feature extraction
 - Processed large unstructured datasets for actionable insights
-
-### Under 25 | Apprentice (Jul 2021 - Jun 2022)
-- Focused on decentralized education and community building
-- Developed leadership and communication skills
-- Gained experience in project planning and execution
 
 ## 🎓 Education
 - M.Sc. Data Science - Amity University Haryana (2022-2024)
